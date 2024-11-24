@@ -1,5 +1,4 @@
-# Partial Kernel Sharing: Improved Parameter-sharing Methods for Single Image Super-Resolution Networks
-Anonymous WACV25 submission .<br>
+# Partial Filter Sharing: Improved Parameter-sharing Methods for Single Image Super-Resolution Networks
 
 
 ### CARN-PS / DRRN-PS Repository
