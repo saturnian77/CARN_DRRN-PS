@@ -14,7 +14,7 @@ If you encounter any problems using the code, please refer to [CARN Issue Thread
 - importlib
 - einops
 
-### Testset Preparation (By CARN authors)
+### Testset Preparation (from [CARN repository](https://github.com/nmhkahn/CARN-pytorch/tree/master))
 Benchmark datasets can be downloaded in [Google Drive](https://drive.google.com/file/d/1Pa3WM9vJlRmBHV9-VlcY-2j20w7CeH_N/view?usp=sharing). Please put all the datasets in `dataset` directory.
 
 ### Test & Evaluation
